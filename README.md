@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sirwhitehd
+- 👋 Hi, I’m @Sirwhite
 - 👀 I’m interested in vast programming and IT knowledge 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on programming language and IT projects 
